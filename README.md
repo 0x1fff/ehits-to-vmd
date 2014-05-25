@@ -113,3 +113,4 @@ License:
 License Apache License Version 2.0, January 2004 (https://tldrlegal.com/ ; http://choosealicense.com/)
 
 
+![DOI FROM zenodo.org](https://zenodo.org/badge/4195/0x1fff/ehits-to-vmd.png)
