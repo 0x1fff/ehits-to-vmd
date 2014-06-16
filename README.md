@@ -120,11 +120,11 @@ this packages installed.
 Direct dependencies (used in appplication):
 
  * perl with standard modules
-   * File::Basename
-   * File::Spec
-   * Getopt::Long
-   * Fatal
-   * File::Find
+    * File::Basename
+    * File::Spec
+    * Getopt::Long
+    * Fatal
+    * File::Find
 
 Indirect dependencies (create and visualize data):
 
@@ -136,4 +136,3 @@ License:
 
 Apache License Version 2.0, January 2004 (https://tldrlegal.com/ ; http://choosealicense.com/)
 
-![DOI FROM zenodo.org](https://zenodo.org/badge/4195/0x1fff/ehits-to-vmd.png)
