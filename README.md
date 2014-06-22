@@ -20,6 +20,8 @@ Version 1.0 of this application was decribed in paper
 > J Chem Inf Model. 2007 Mar-Apr;47(2):695-702 ;
 > DOI: 10.1021/ci600392r ;
 > PMID: 17381179 (http://www.ncbi.nlm.nih.gov/pubmed/17381179) ;
+>
+>link:  http://pubs.acs.org/doi/abs/10.1021/ci600392r
 
 
 Paper presents an application that is an interface between the eHiTS docking program and the VMD graphic software. 
